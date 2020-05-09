@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Tugas_UTS_AKB_IF3_10117118</string>
+    <string name="title_home">Informasi</string>
+    <string name="title_profil">Profil</string>
+    <string name="title_kontak">Kontak</string>
+    <string name="splash_name">Hello There</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="title_teman">Teman</string>
+</resources>
