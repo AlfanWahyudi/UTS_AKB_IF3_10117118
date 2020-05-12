@@ -1,1 +1,1 @@
-# UTS_AKB_IF3_10117118
+# Project ini dibuat untuk memenuhi tugas pengganti UTS matakuliah Aplikasi Komputasi Bergerak
