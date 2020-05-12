@@ -6,6 +6,11 @@ import android.os.Bundle;
 import androidx.appcompat.app.AppCompatActivity;
 
 public class SplashActivity extends AppCompatActivity {
+    /** NIM : 10117118
+     * Nama : Alfan Wahyudi
+     * Kelas : IF-3
+     * Tanggal : 12-05-2020**/
+
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
